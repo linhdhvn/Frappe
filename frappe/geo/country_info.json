@@ -2122,9 +2122,9 @@
   "number_format": "#,###.##",
   "isd": "+970",
   "timezones": [
-    "Asia/Hebron",
-    "Asia/Jerusalem"
-   ]
+   "Asia/Hebron",
+   "Asia/Jerusalem"
+  ]
  },
  "Panama": {
   "code": "pa",
@@ -2588,10 +2588,10 @@
   "currency_symbol": "\u062c.\u0633.",
   "number_format": "#,###.##",
   "timezones": [
-    "Africa/Khartoum"
+   "Africa/Khartoum"
   ],
   "isd": "+249"
-},
+ },
  "Suriname": {
   "code": "sr",
   "currency": "SRD",
@@ -2688,7 +2688,7 @@
   "currency_name": "Tanzanian Shilling",
   "number_format": "#,###.##",
   "timezones": [
-    "Africa/Dar_es_Salaam"
+   "Africa/Dar_es_Salaam"
   ],
   "isd": "+255"
  },
@@ -2802,7 +2802,7 @@
   ],
   "isd": "+688"
  },
-  "T\u00fcrkiye": {
+ "T\u00fcrkiye": {
   "code": "tr",
   "currency": "TRY",
   "currency_fraction": "Kuru\u015f",
@@ -3036,7 +3036,7 @@
   "currency_symbol": "€",
   "number_format": "#,###.##",
   "timezones": [
-    "Europe/Belgrade"
+   "Europe/Belgrade"
   ],
   "isd": "+383"
  },
